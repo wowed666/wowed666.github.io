@@ -9,8 +9,7 @@ name: My incredible PIC16B adventure
 description: Chengwei Hu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/ucla-math.png
-
+avatar: \images\ironman.jpg
 #
 # Flags below are optional
 #
@@ -18,10 +17,10 @@ avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: wowed0818@g.ucla.edu
   facebook:
   flickr:
-  github: PIC16B/pic16b.github.io # replace with your repo
+  github: wowed666/wowed666.github.io # replace with your repo
   instagram:
   linkedin:
   pinterest:
